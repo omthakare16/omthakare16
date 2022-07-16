@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/omthakare16/omthakare16/1aa7369751b1056cca56dfbaf1de86c26428fbd3/darling.svg)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/omthakare16/omthakare16/main/darling%20(1640%20%C3%97%20800px).png)]
 
 <h3 align="center">Learning to develope frontend</h3>
 <iframe align="right" alt="Coding" width="400" src='https://my.spline.design/roomrelaxingcopy-fa2959b2184d8f0b5dbe57bcdd3f0979/' frameborder='0' width='100%' height='100%'></iframe>
