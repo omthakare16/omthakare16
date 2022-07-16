@@ -1,7 +1,7 @@
-![MasterHead](https://raw.githubusercontent.com/omthakare16/omthakare16/main/darling%20(1640%20%C3%97%20800px).png)
+[![MasterHead](https://raw.githubusercontent.com/omthakare16/omthakare16/1aa7369751b1056cca56dfbaf1de86c26428fbd3/darling.svg)](https://rishavchanda.io)
 
 <h3 align="center">Learning to develope frontend</h3>
-<iframe align="right" alt="Coding" width="400" src='https://my.spline.design/roomrelaxingcopy-fa2959b2184d8f0b5dbe57bcdd3f0979/' frameborder='0' width='100%' height='100%'></iframe>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
 
 <p align="left"> <a href="https://twitter.com/omthakare1606" target="blank"><img src="https://img.shields.io/twitter/follow/omthakare1606?logo=twitter&style=for-the-badge" alt="omthakare1606" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omthakare1606@gmail.com**
 
-- ⚡ Fun fact **I am unfunny.**
+- ⚡ Fun fact **I am not unfunny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
