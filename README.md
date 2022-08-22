@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/omthakare16/omthakare16/main/darling%20(1640%20%C3%97%20800px).png)](https://github.com/omthakare16)
 
-<h3 align="center">Learning to develope frontend</h3>
+<h3 align="center">Learning to develop frontend</h3>
 <img  align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
 
 <p align="left"> <a href="https://twitter.com/omthakare1606" target="blank"><img src="https://img.shields.io/twitter/follow/omthakare1606?logo=twitter&style=for-the-badge" alt="omthakare1606" /></a> </p>
