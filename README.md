@@ -28,6 +28,5 @@
 
 <details align="center">
 <summary><samp><b>Details</b></samp></summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omthakare16&show_icons=true&theme=tokyonight&locale=en&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="omthakare16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omthakare16&show_icons=true&theme=tokyonight&locale=en&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="omthakare16" /></p>
